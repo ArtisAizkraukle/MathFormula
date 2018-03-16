@@ -1,0 +1,5 @@
+﻿  Class.cpp
+c:\users\artis\mycprojects\class\class\class2.cpp(20): warning C4018: '<': signed/unsigned mismatch
+c:\users\artis\mycprojects\class\class\class2.cpp(46): warning C4018: '<': signed/unsigned mismatch
+c:\users\artis\mycprojects\class\class\class2.cpp(70): warning C4018: '<': signed/unsigned mismatch
+  Class.vcxproj -> C:\Users\Artis\MyCProjects\Class\Debug\Class.exe
