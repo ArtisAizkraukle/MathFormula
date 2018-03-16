@@ -40,7 +40,6 @@ public:
 
 	int get_number_array() {
 		convert_to_string();
-		length = str_of_operators.length(); // number of operators == number of decimals + a[0] // we need to now number of decimals for next array
 		length = str_of_numbers.length();
 		string buf = "";
 		for (size_t i = 0; i < length; i++)
